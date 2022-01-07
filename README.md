@@ -8,7 +8,10 @@ If we develop a system that can predict what the sentiment towards a given revie
 To undertand more about it do read the below given papers as well as have a look at the data.
 In the given dataset,there were 3 classes-Negative,Neutral and Positive(0 for negative,1 for neutral 2 for positive).
 The papers which I have implemented in this project are-
-Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks Binxuan Huang, Yanglan Ou and Kathleen M. Carley[
+
+Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks Binxuan Huang, Yanglan Ou and Kathleen M. Carley
+
 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding Jacob Devlin Ming-Wei Chang Kenton Lee Kristina Toutanova
+
 LCF: A Local Context Focus Mechanism for Aspect-Based Sentiment Classification by Biqing Zeng 1ORCID,Heng Yang 2,*ORCID,Ruyang Xu 2,Wu Zhou 2 andXuli Han 2ORCID
 
