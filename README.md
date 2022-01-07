@@ -5,7 +5,7 @@ For eg-
 The camera of this mobile is pretty good but the design is really unflattering.
 In this -for aspect 'camera',the review was positive but negative towards the aspect 'design'.
 If we develop a system that can predict what the sentiment towards a given review is,it can prove of great value in fields like customer reviews ,movie reviews or even recommendation systems.
-To undertand more about it do read the below given papers as well as have a look at the data.
+To undertand more about it do read the below given papers.
 In the given dataset,there were 3 classes-Negative,Neutral and Positive(0 for negative,1 for neutral 2 for positive).
 The papers which I have implemented in this project are-
 
